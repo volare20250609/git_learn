@@ -1,1 +1,2 @@
 common_text1
+bad common text
